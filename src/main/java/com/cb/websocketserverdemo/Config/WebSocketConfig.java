@@ -1,4 +1,4 @@
-package com.cb.websocketserverdemo;
+package com.cb.websocketserverdemo.Config;
 
 
 import org.springframework.context.annotation.Bean;
